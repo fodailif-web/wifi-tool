@@ -1,3 +1,21 @@
+
+                                        user name = fateh
+                                        passord = 12345
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ======== IMPORTANT NOTICE / إخلاء مسؤولية مهم ========
 
 This software is provided for legitimate, legal, and educational use only.
